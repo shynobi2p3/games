@@ -94,7 +94,9 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: https://www.linkedin.com/in/sthilae1/ # An array of links to social media profiles
+  links:  # An array of links to social media profiles
+    - "https://www.linkedin.com/in/sthilae1/"
+
 
 # Analytics
 analytics:
@@ -108,8 +110,8 @@ analytics:
 author:
   name             : "Edwin St.Hilaire"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Game Design Enthusiast"
+  location         : "United States"
   email            :
   links:
     - label: "Email"
